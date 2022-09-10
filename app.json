@@ -1,6 +1,6 @@
 {
     "name":"LemonJamServer",
-    "description":"Webserver of LemonJamSbot",
+    "description":"https://github.com/Sree-Ram-MS/LemonJamsBot-Heroku",
     "env":{
         "SESSION":{
             "description":"Telethon session",
